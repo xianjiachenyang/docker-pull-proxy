@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/dify-sandbox:0.2.10
+ubuntu/squid:latest  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/ubuntu/squid:latest
