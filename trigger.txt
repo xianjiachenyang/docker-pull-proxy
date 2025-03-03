@@ -1,1 +1,1 @@
-ubuntu/squid:latest  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/squid:lates
+langgenius/dify-api:0.15.3												registry.cn-hangzhou.aliyuncs.com/zhhs-dify/dify-api:0.15.3
