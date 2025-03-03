@@ -1,1 +1,1 @@
-certbot/certbot                                                         registry.cn-hangzhou.aliyuncs.com/zhhs-dify/certbot
+pingcap/tidb:v8.4.0                                                     registry.cn-hangzhou.aliyuncs.com/zhhs-dify/tidb:v8.4.0
