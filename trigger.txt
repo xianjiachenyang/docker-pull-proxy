@@ -1,1 +1,1 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest       registry.cn-hangzhou.aliyuncs.com/zhhs-dify/unstructured-api:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3                    registry.cn-hangzhou.aliyuncs.com/zhhs-dify/elasticsearch:8.14.3
