@@ -1,1 +1,1 @@
-ghcr.io/chroma-core/chroma:0.5.20                                       registry.cn-hangzhou.aliyuncs.com/zhhs-dify/chroma:0.5.20
+quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215               registry.cn-hangzhou.aliyuncs.com/zhhs-dify/oceanbase-ce:4.3.3.0-100000142024101215
