@@ -1,1 +1,1 @@
-redis:6-alpine  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/redis:6-alpine
+langgenius/dify-sandbox:0.2.10  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/langgenius/dify-sandbox:0.2.10
