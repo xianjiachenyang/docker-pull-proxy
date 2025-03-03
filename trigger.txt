@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/langgenius/dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.10  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/dify-sandbox:0.2.10
