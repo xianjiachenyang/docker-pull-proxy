@@ -1,1 +1,1 @@
-langgenius/dify-web:0.15.3                                              registry.cn-hangzhou.aliyuncs.com/zhhs-dify/dify-web:0.15.3
+certbot/certbot                                                         registry.cn-hangzhou.aliyuncs.com/zhhs-dify/certbot
