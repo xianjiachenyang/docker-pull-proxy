@@ -1,1 +1,1 @@
-opensearchproject/opensearch:latest                                     registry.cn-hangzhou.aliyuncs.com/zhhs-dify/opensearch:latest
+opensearchproject/opensearch-dashboards:latest                          registry.cn-hangzhou.aliyuncs.com/zhhs-dify/opensearch-dashboards:latest
