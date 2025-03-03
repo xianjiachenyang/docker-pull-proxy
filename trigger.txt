@@ -1,1 +1,1 @@
-pingcap/tidb:v8.4.0                                                     registry.cn-hangzhou.aliyuncs.com/zhhs-dify/tidb:v8.4.0
+langgenius/qdrant:v1.7.3                                                registry.cn-hangzhou.aliyuncs.com/zhhs-dify/qdrant:v1.7.3
