@@ -1,1 +1,1 @@
-ubuntu/squid:latest  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0  registry.cn-hangzhou.aliyuncs.com/zhhs-dify/weaviate:1.19.0
