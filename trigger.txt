@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/zhhs-dify/postgres:15-alpine
+nginx:latest registry.cn-hangzhou.aliyuncs.com/zhhs-dify/nginx:latest
