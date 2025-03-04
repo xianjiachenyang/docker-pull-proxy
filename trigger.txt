@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3                    registry.cn-hangzhou.aliyuncs.com/zhhs-dify/elasticsearch:8.14.3
+semitechnologies/weaviate:1.19.0                registry.cn-hangzhou.aliyuncs.com/zhhs-dify/weaviate:1.19.0
